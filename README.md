@@ -44,9 +44,6 @@ to be at any point) and session-level saving of machines and in-progress tilings
 - Java (9 classes: `TextUI`, `MachineBuilder`, `Tiling`, `TuringMachine`, `State`, `Rule`,
   `TileSetGenerator`, `WangTile`, `TilePlane`)
 
-## Running it
-//TODO stil figuring out best running instructions
-
 ## Testing
 Tested incrementally with three purpose-built Turing machines:
 - A **binary-plus-one** machine (main test case — enough complexity to exercise multiple states,
@@ -68,4 +65,4 @@ fundamentally a visual/logical structure rather than a single computed value.
   inputs, or shared as a small teaching library.
 
 ## Dissertation
-Full write-up available on request / [link if I want to host the PDF somewhere].
+Full write-up available on request
